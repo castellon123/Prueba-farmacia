@@ -12,12 +12,23 @@ namespace Prueba_farmacia
 {
     public partial class fmrClientes : Form
     {
+       
         public fmrClientes()
         {
             InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
         {
 
         }
